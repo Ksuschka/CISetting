@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/6wg5joc61g3f82o2?svg=true)](https://ci.appveyor.com/project/Ksuschka/cisetting)
